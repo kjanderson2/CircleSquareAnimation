@@ -13,6 +13,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        android:src="@drawable/puth"/>
+        android:src="@drawable/julep"/>
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
