@@ -8,10 +8,10 @@
         motion:motionInterpolator="easeInOut">
         <OnClick
             motion:clickAction="toggle"
-            motion:targetId="@+id/puthPic" />
+            motion:targetId="@+id/julepPic" />
     </Transition>
     <ConstraintSet android:id="@+id/start">
-        <Constraint android:id="@id/puthPic">
+        <Constraint android:id="@id/julepPic">
             <Layout
                 android:layout_width="128dp"
                 android:layout_height="128dp"
@@ -26,7 +26,7 @@
     </ConstraintSet>
 
     <ConstraintSet android:id="@+id/end">
-        <Constraint android:id="@id/puthPic">
+        <Constraint android:id="@id/julepPic">
             <Layout
                 android:layout_width="128dp"
                 android:layout_height="128dp"
