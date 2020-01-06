@@ -36,7 +36,7 @@
                 motion:layout_constraintTop_toTopOf="parent" />
             <CustomAttribute
                 motion:attributeName="roundPercent"
-                motion:customFloatValue="0.0" />
+                motion:customFloatValue="0.000001" />
         </Constraint>
     </ConstraintSet>
 </MotionScene>
